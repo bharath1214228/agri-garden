@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 20:28:51 at https://www.gardencreekvineyards.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.gardencreekvineyards.com/ -O1 "C:\Users\dell\Desktop\barath\agri7" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:33:59	Error: 	Exit requested by shell or user
+20:34:03	Warning: 	File not added due to mirror cancel: https://www.gardencreekvineyards.com/journal/in-the-moment
+20:34:04	Warning: 	File not added due to mirror cancel: https://use.typekit.net/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 2 seconds : 99 links scanned, 97 files written (22584374 bytes overall) [22119154 bytes received at 52415 bytes/sec], 894660 bytes transferred using HTTP compression in 29 files, ratio 43%, 2.2 requests per connection
+(1 errors, 2 warnings, 0 messages)

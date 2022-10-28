@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gardencreekvineyards.com	TRUE	/	FALSE	1999999999	PHPSESSID	q7c2onn3h0m4rrjf11oc9outkn
+
